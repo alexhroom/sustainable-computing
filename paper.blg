@@ -3,48 +3,55 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: paper.aux
 The style file: unsrtnat.bst
 Database file #1: bibliography.bib
+Warning--I didn't find a database entry for "shang2018time"
+Name 1 in "National Academies of Sciences, Engineering, and Medicine and others" has a comma at the end for entry national2019quantum
+while executing---line 1233 of file unsrtnat.bst
 Warning--empty journal in shehabi2016united
 Warning--empty journal in masanet2013energy
 Warning--empty journal in holzle2020data
-You've used 37 entries,
+Name 1 in "National Academies of Sciences, Engineering, and Medicine and others" has a comma at the end for entry national2019quantum
+while executing---line 1315 of file unsrtnat.bst
+Name 1 in "National Academies of Sciences, Engineering, and Medicine and others" has a comma at the end for entry national2019quantum
+while executing---line 1315 of file unsrtnat.bst
+You've used 45 entries,
             2481 wiz_defined-function locations,
-            762 strings with 11621 characters,
-and the built_in function-call counts, 13428 in all, are:
-= -- 1091
-> -- 717
-< -- 23
-+ -- 291
-- -- 216
-* -- 963
-:= -- 2119
-add.period$ -- 122
-call.type$ -- 37
-change.case$ -- 73
-chr.to.int$ -- 36
-cite$ -- 44
-duplicate$ -- 694
-empty$ -- 1264
-format.name$ -- 253
-if$ -- 2880
+            807 strings with 13152 characters,
+and the built_in function-call counts, 16482 in all, are:
+= -- 1357
+> -- 865
+< -- 28
++ -- 349
+- -- 258
+* -- 1197
+:= -- 2600
+add.period$ -- 146
+call.type$ -- 45
+change.case$ -- 88
+chr.to.int$ -- 44
+cite$ -- 52
+duplicate$ -- 853
+empty$ -- 1548
+format.name$ -- 309
+if$ -- 3531
 int.to.chr$ -- 2
-int.to.str$ -- 38
-missing$ -- 26
-newline$ -- 199
-num.names$ -- 99
-pop$ -- 381
+int.to.str$ -- 46
+missing$ -- 35
+newline$ -- 239
+num.names$ -- 123
+pop$ -- 444
 preamble$ -- 1
-purify$ -- 37
+purify$ -- 45
 quote$ -- 0
-skip$ -- 440
+skip$ -- 535
 stack$ -- 0
-substring$ -- 419
-swap$ -- 122
-text.length$ -- 6
+substring$ -- 569
+swap$ -- 145
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 256
+type$ -- 309
 warning$ -- 3
-while$ -- 95
+while$ -- 125
 width$ -- 0
-write$ -- 481
-(There were 3 warnings)
+write$ -- 584
+(There were 3 error messages)

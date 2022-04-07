@@ -1,4 +1,4 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{45}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -248,5 +248,55 @@ Bichlien Nguyen, Julie Sinistore, Jake Smith, Praneet~S. Arshi, Lauren~M.
   September 2020.
 \newblock URL
   \url{https://www.microsoft.com/en-us/research/publication/architecting-datacenters-for-sustainability-greener-data-storage-using-synthetic-dna/}.
+
+\bibitem[National Academies~of Sciences et~al.(2019)National Academies~of
+  Sciences, Medicine, et~al.]{national2019quantum}
+Engineering National Academies~of Sciences, Medicine, et~al.
+\newblock \emph{Quantum computing: progress and prospects}.
+\newblock National Academies Press, 2019.
+
+\bibitem[Gyongyosi and Imre(2019)]{gyongyosi2019survey}
+Laszlo Gyongyosi and Sandor Imre.
+\newblock A survey on quantum computing technology.
+\newblock \emph{Computer Science Review}, 31:\penalty0 51--71, 2019.
+
+\bibitem[Ikonen et~al.(2017)Ikonen, Salmilehto, and
+  M{\"o}tt{\"o}nen]{ikonen2017energy}
+Joni Ikonen, Juha Salmilehto, and Mikko M{\"o}tt{\"o}nen.
+\newblock Energy-efficient quantum computing.
+\newblock \emph{npj Quantum Information}, 3\penalty0 (1):\penalty0 1--7, 2017.
+
+\bibitem[Giani and Eldredge(2021)]{giani2021quantum}
+Annarita Giani and Zachary Eldredge.
+\newblock Quantum computing opportunities in renewable energy.
+\newblock \emph{SN Computer Science}, 2\penalty0 (5):\penalty0 1--15, 2021.
+
+\bibitem[Yu et~al.(2020)Yu, Ariza-Montes, Hern{\'a}ndez-Perlines,
+  Vega-Mu{\~n}oz, and Han]{yu2020hotels}
+Jongsik Yu, Antonio Ariza-Montes, Felipe Hern{\'a}ndez-Perlines, Alejandro
+  Vega-Mu{\~n}oz, and Heesup Han.
+\newblock Hotels’ eco-friendly physical environment as nature-based solutions
+  for decreasing burnout and increasing job satisfaction and performance.
+\newblock \emph{International Journal of Environmental Research and Public
+  Health}, 17\penalty0 (17):\penalty0 6357, 2020.
+
+\bibitem[Reverte et~al.(2016)Reverte, Gomez-Melero, and
+  Cegarra-Navarro]{reverte2016influence}
+Carmelo Reverte, Eduardo Gomez-Melero, and Juan~Gabriel Cegarra-Navarro.
+\newblock The influence of corporate social responsibility practices on
+  organizational performance: evidence from eco-responsible spanish firms.
+\newblock \emph{Journal of Cleaner Production}, 112:\penalty0 2870--2884, 2016.
+
+\bibitem[Miles and Munilla(1993)]{miles1993eco}
+Morgan~P Miles and Linda~S Munilla.
+\newblock The eco-orientation: an emerging business philosophy?
+\newblock \emph{Journal of Marketing Theory and Practice}, pages 43--51, 1993.
+
+\bibitem[Aranganathan(2018)]{aranganathan2018green}
+P~Aranganathan.
+\newblock Green recruitment: A new-fangled approach to attract and retain
+  talent.
+\newblock \emph{International Journal of Business Management \& Research},
+  8\penalty0 (2):\penalty0 69--76, 2018.
 
 \end{thebibliography}
