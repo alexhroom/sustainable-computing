@@ -1,0 +1,234 @@
+\begin{thebibliography}{34}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Forster et~al.(2007)Forster, Ramaswamy, Artaxo, Berntsen, Betts,
+  Fahey, Haywood, Lean, Lowe, Myhre, et~al.]{forster2007changes}
+Piers Forster, Venkatachalam Ramaswamy, Paulo Artaxo, Terje Berntsen, Richard
+  Betts, David~W Fahey, James Haywood, Judith Lean, David~C Lowe, Gunnar Myhre,
+  et~al.
+\newblock Changes in atmospheric constituents and in radiative forcing. chapter
+  2.
+\newblock In \emph{Climate change 2007. The physical science basis}. Cambridge
+  University Press, 2007.
+
+\bibitem[Lannelongue et~al.(2021{\natexlab{a}})Lannelongue, Grealey, Bateman,
+  and Inouye]{lannelongue2021ten}
+Lo{\"\i}c Lannelongue, Jason Grealey, Alex Bateman, and Michael Inouye.
+\newblock Ten simple rules to make your computing more environmentally
+  sustainable, 2021{\natexlab{a}}.
+
+\bibitem[Aslan et~al.(2018)Aslan, Mayers, Koomey, and
+  France]{aslan2018electricity}
+Joshua Aslan, Kieren Mayers, Jonathan~G Koomey, and Chris France.
+\newblock Electricity intensity of internet data transmission: Untangling the
+  estimates.
+\newblock \emph{Journal of Industrial Ecology}, 22\penalty0 (4):\penalty0
+  785--798, 2018.
+
+\bibitem[app(2019)]{apple2019product}
+iphone 11 product environmental report, 2019.
+\newblock URL
+  \url{https://www.apple.com/environment/pdf/products/iphone/iPhone_11_PER_sept2019.pdf}.
+\newblock Accessed: 2022-02-09.
+
+\bibitem[uk2(2020)]{uk2020greenhouse}
+Greenhouse gas reporting: conversion factors 2020, 2020.
+\newblock URL
+  \url{https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2020}.
+\newblock Accessed: 2022-02-09.
+
+\bibitem[Narayanan et~al.(2017)Narayanan, Bonneau, Felten, Miller, and
+  Goldfeder]{narayanan2017bitcoin}
+Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven
+  Goldfeder.
+\newblock Bitcoin and cryptocurrency technologies: A comprehensive
+  introduction, 2017.
+
+\bibitem[Redman(2020)]{redman2020NFT}
+Jamie Redman.
+\newblock Nft economy grows exponential: \$1m in non-fungible token sales last
+  week, 2020.
+\newblock URL
+  \url{https://news.bitcoin.com/nft-economy-grows-exponential-1m-in-non-fungible-token-sales-last-week/}.
+\newblock Accessed: 2021-12-23.
+
+\bibitem[Atken(2020)]{atken2020unreasonable}
+Memo Atken.
+\newblock The unreasonable ecological cost of \#cryptoart, 2020.
+\newblock URL
+  \url{https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053}.
+\newblock Accessed: 2021-12-23.
+
+\bibitem[Qiu(2021)]{qiu2021what}
+Jiahui Qiu.
+\newblock Nft's environmental impact, 2021.
+\newblock URL \url{https://earth.org/nfts-environmental-impact/}.
+\newblock Accessed: 2021-12-23.
+
+\bibitem[Saleh(2021)]{saleh2021blockchain}
+Fahad Saleh.
+\newblock Blockchain without waste: Proof-of-stake.
+\newblock \emph{The Review of Financial Studies}, 34\penalty0 (3):\penalty0
+  1156--1190, 2021.
+
+\bibitem[Lannelongue et~al.(2021{\natexlab{b}})Lannelongue, Grealey, and
+  Inouye]{lannelongue2021green}
+Lo{\"\i}c Lannelongue, Jason Grealey, and Michael Inouye.
+\newblock Green algorithms: Quantifying the carbon footprint of computation.
+\newblock \emph{Advanced Science}, page 2100707, 2021{\natexlab{b}}.
+
+\bibitem[Grealey et~al.(2021)Grealey, Lannelongue, Saw, Marten, M{\'e}ric,
+  Carmona, and Inouye]{grealey2021carbon}
+Jason~G Grealey, Lo{\"\i}c Lannelongue, Woeiyuh Saw, Jonathan Marten, Guillaume
+  M{\'e}ric, Sergio~Ruiz Carmona, and Michael Inouye.
+\newblock The carbon footprint of bioinformatics.
+\newblock \emph{bioRxiv}, 2021.
+
+\bibitem[Heer(2018)]{heer2018speed}
+Niklas Heer.
+\newblock Speed comparison of various programming languages, 2018.
+\newblock URL \url{https://github.com/niklas-heer/speed-comparison}.
+\newblock Accessed: 2021-12-28.
+
+\bibitem[Shehabi et~al.(2016)Shehabi, Smith, Sartor, Brown, Herrlin, Koomey,
+  Masanet, Horner, Azevedo, and Lintner]{shehabi2016united}
+Arman Shehabi, Sarah Smith, Dale Sartor, Richard Brown, Magnus Herrlin,
+  Jonathan Koomey, Eric Masanet, Nathaniel Horner, In{\^e}s Azevedo, and
+  William Lintner.
+\newblock United states data center energy usage report.
+\newblock 2016.
+
+\bibitem[Waters(2019)]{waters2019energy}
+Liz Waters.
+\newblock Energy consumption in the uk (ecuk) 1970 to 2019.
+\newblock \emph{ECUK}, 2019.
+
+\bibitem[del(2021)]{dell2021powerstore}
+Dell powerstore9000t pcf datasheet, 2021.
+\newblock URL
+  \url{https://www.delltechnologies.com/asset/en-us/products/storage/technical-support/powerstore9000t-pcf-datasheet.pdf}.
+\newblock Accessed: 2022-02-04.
+
+\bibitem[Moore et~al.(2007)Moore, D'Aoust, McDonald, and Minor]{moore2007disk}
+Richard~L Moore, Jim D'Aoust, Robert~H McDonald, and David Minor.
+\newblock Disk and tape storage cost models.
+\newblock In \emph{Archiving Conference}, volume~1, pages 29--32. Society for
+  Imaging Science and Technology, 2007.
+
+\bibitem[Imrie et~al.(2021)Imrie, Bradley, and Deane]{imrie2021generating}
+Fergus Imrie, Anthony~R Bradley, and Charlotte~M Deane.
+\newblock Generating property-matched decoy molecules using deep learning.
+\newblock \emph{Bioinformatics}, 37\penalty0 (15):\penalty0 2134--2141, 2021.
+
+\bibitem[Bhattacharya et~al.(2020)Bhattacharya, Hosseini, Kovachki, and
+  Stuart]{bhattacharya2020model}
+Kaushik Bhattacharya, Bamdad Hosseini, Nikola~B Kovachki, and Andrew~M Stuart.
+\newblock Model reduction and neural networks for parametric pdes.
+\newblock \emph{arXiv preprint arXiv:2005.03180}, 2020.
+
+\bibitem[Deng(2012)]{deng2012mnist}
+Li~Deng.
+\newblock The mnist database of handwritten digit images for machine learning
+  research.
+\newblock \emph{IEEE Signal Processing Magazine}, 29\penalty0 (6):\penalty0
+  141--142, 2012.
+
+\bibitem[Klimt and Yang(2004)]{klimt2004enron}
+Bryan Klimt and Yiming Yang.
+\newblock The enron corpus: A new dataset for email classification research.
+\newblock In \emph{European Conference on Machine Learning}, pages 217--226.
+  Springer, 2004.
+
+\bibitem[Strubell et~al.(2019)Strubell, Ganesh, and
+  McCallum]{strubell2019energy}
+Emma Strubell, Ananya Ganesh, and Andrew McCallum.
+\newblock Energy and policy considerations for deep learning in nlp.
+\newblock \emph{arXiv preprint arXiv:1906.02243}, 2019.
+
+\bibitem[Findlay(2021)]{findlay2021practical}
+David Findlay.
+\newblock \emph{A Practical Guide to the ISIS Neutron and Muon Source}.
+\newblock UKRI Creative Services, 2021.
+
+\bibitem[Masanet et~al.(2013)Masanet, Shehabi, Ramakrishnan, Liang, Ma, Walker,
+  Hendrix, and Mantha]{masanet2013energy}
+Eric Masanet, Arman Shehabi, Lavanya Ramakrishnan, Jiaqi Liang, Xiaohui Ma,
+  Benjamin Walker, Valerie Hendrix, and Pradeep Mantha.
+\newblock The energy efficiency potential of cloud-based software: A u.s. case
+  study.
+\newblock 2013.
+
+\bibitem[Masanet et~al.(2020)Masanet, Shehabi, Lei, Smith, and
+  Koomey]{masanet2020recalibrating}
+Eric Masanet, Arman Shehabi, Nuoa Lei, Sarah Smith, and Jonathan Koomey.
+\newblock Recalibrating global data center energy-use estimates.
+\newblock \emph{Science}, 367\penalty0 (6481):\penalty0 984--986, 2020.
+
+\bibitem[H{\"o}lzle(2020)]{holzle2020data}
+Urs H{\"o}lzle.
+\newblock Data centers are more energy efficient than ever.
+\newblock 2020.
+\newblock URL
+  \url{https://www.blog.google/outreach-initiatives/sustainability/data-centers-energy-efficient}.
+
+\bibitem[Ospina(2018)]{ospina2018cooling}
+Christina Ospina.
+\newblock Cooling your home but warming the planet: How we can stop air
+  conditioning from worsening climate change.
+\newblock \emph{Climate Institute. New York}, page~9, 2018.
+
+\bibitem[Evans and Gao(2016)]{evans2016deepmind}
+Richard Evans and Jim Gao.
+\newblock Deepmind ai reduces google data centre cooling bill by 40%, 2016.
+\newblock URL
+  \url{https://deepmind.com/blog/article/deepmind-ai-reduces-google-data-centre-cooling-bill-40/}.
+\newblock Accessed: 2022-02-09.
+
+\bibitem[Jaya et~al.(2020)Jaya, Safitri, and Mandala]{jaya2020sneakernet}
+Andika~Candra Jaya, Cutifa Safitri, and Rila Mandala.
+\newblock Sneakernet: A technological overview and improvement.
+\newblock In \emph{2020 IEEE International Conference on Sustainable
+  Engineering and Creative Computing (ICSECC)}, pages 287--291. IEEE, 2020.
+
+\bibitem[mer(2019)]{mercedes2019sprinter}
+Mercedes-benz sprinter promotional brochure, 2019.
+\newblock URL
+  \url{https://www.mercedes-benz.co.uk/vans/content/dam/vans/united-kingdom/sprinter-panel-van/Sprinter%20brochure.pdf}.
+\newblock Accessed: 2022-02-04.
+
+\bibitem[Hubbard(2021)]{hubbard2021new}
+CJ~Hubbard.
+\newblock New british-built arrival electric van: in-depth info, official pics
+  and more, 2021.
+\newblock URL
+  \url{https://www.parkers.co.uk/vans-pickups/news/2021/arrival-electric-van/}.
+\newblock Accessed: 2022-02-04.
+
+\bibitem[Akbari(2002)]{akbari2002shade}
+Hashem Akbari.
+\newblock Shade trees reduce building energy use and co2 emissions from power
+  plants.
+\newblock \emph{Environmental pollution}, 116:\penalty0 S119--S126, 2002.
+
+\bibitem[al~Ghussain(2021)]{ghussain2020biggest}
+Alia al~Ghussain.
+\newblock The biggest problem with carbon offsetting is that it doesn’t
+  really work.
+\newblock \emph{Greenpeace}, 2021.
+
+\bibitem[Nguyen et~al.(2020)Nguyen, Sinistore, Smith, Arshi, Johnson, Kidman,
+  diCaprio, Carmean, and Strauss]{nguyen2020architecting}
+Bichlien Nguyen, Julie Sinistore, Jake Smith, Praneet~S. Arshi, Lauren~M.
+  Johnson, Tim Kidman, T.J. diCaprio, Doug Carmean, and Karin Strauss.
+\newblock Architecting datacenters for sustainability: Greener data storage
+  using synthetic dna.
+\newblock In \emph{Electronics Goes Green 2020}. Fraunhofer IZM, IEEE,
+  September 2020.
+\newblock URL
+  \url{https://www.microsoft.com/en-us/research/publication/architecting-datacenters-for-sustainability-greener-data-storage-using-synthetic-dna/}.
+
+\end{thebibliography}
