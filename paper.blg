@@ -6,45 +6,45 @@ Database file #1: bibliography.bib
 Warning--empty journal in shehabi2016united
 Warning--empty journal in masanet2013energy
 Warning--empty journal in holzle2020data
-You've used 34 entries,
+You've used 37 entries,
             2481 wiz_defined-function locations,
-            739 strings with 11177 characters,
-and the built_in function-call counts, 12254 in all, are:
-= -- 989
-> -- 664
-< -- 21
-+ -- 269
-- -- 200
-* -- 866
-:= -- 1932
-add.period$ -- 113
-call.type$ -- 34
-change.case$ -- 67
-chr.to.int$ -- 33
-cite$ -- 41
-duplicate$ -- 637
-empty$ -- 1152
-format.name$ -- 234
-if$ -- 2636
+            762 strings with 11621 characters,
+and the built_in function-call counts, 13428 in all, are:
+= -- 1091
+> -- 717
+< -- 23
++ -- 291
+- -- 216
+* -- 963
+:= -- 2119
+add.period$ -- 122
+call.type$ -- 37
+change.case$ -- 73
+chr.to.int$ -- 36
+cite$ -- 44
+duplicate$ -- 694
+empty$ -- 1264
+format.name$ -- 253
+if$ -- 2880
 int.to.chr$ -- 2
-int.to.str$ -- 35
-missing$ -- 23
-newline$ -- 184
-num.names$ -- 90
-pop$ -- 360
+int.to.str$ -- 38
+missing$ -- 26
+newline$ -- 199
+num.names$ -- 99
+pop$ -- 381
 preamble$ -- 1
-purify$ -- 34
+purify$ -- 37
 quote$ -- 0
-skip$ -- 408
+skip$ -- 440
 stack$ -- 0
-substring$ -- 344
-swap$ -- 116
+substring$ -- 419
+swap$ -- 122
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 235
+type$ -- 256
 warning$ -- 3
-while$ -- 83
+while$ -- 95
 width$ -- 0
-write$ -- 442
+write$ -- 481
 (There were 3 warnings)
