@@ -1,4 +1,4 @@
-\begin{thebibliography}{45}
+\begin{thebibliography}{46}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -153,6 +153,15 @@ Emma Strubell, Ananya Ganesh, and Andrew McCallum.
 David Findlay.
 \newblock \emph{A Practical Guide to the ISIS Neutron and Muon Source}.
 \newblock UKRI Creative Services, 2021.
+
+\bibitem[Shang et~al.(2018)Shang, Smidman, Ghosh, Baines, Chang, Gawryluk,
+  Barker, Singh, Paul, Balakrishnan, et~al.]{shang2018time}
+Tian Shang, Michael Smidman, Saikat~K Ghosh, Christopher Baines, Lieh-Jeng
+  Chang, DJ~Gawryluk, Joel~AT Barker, Ravi~P Singh, D~McK Paul, Geetha
+  Balakrishnan, et~al.
+\newblock Time-reversal symmetry breaking in re-based superconductors.
+\newblock \emph{Physical review letters}, 121\penalty0 (25):\penalty0 257002,
+  2018.
 
 \bibitem[Masanet et~al.(2013)Masanet, Shehabi, Ramakrishnan, Liang, Ma, Walker,
   Hendrix, and Mantha]{masanet2013energy}
