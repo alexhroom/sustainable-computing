@@ -1,25 +1,32 @@
-\begin{thebibliography}{46}
+\begin{thebibliography}{47}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Hawkins(2021)]{hawkins2021show}
+Ed~Hawkins.
+\newblock Show your stripes, 2021.
+\newblock URL \url{https://showyourstripes.info/}.
+\newblock Accessed: 2022-04-12.
+
 \bibitem[Forster et~al.(2007)Forster, Ramaswamy, Artaxo, Berntsen, Betts,
   Fahey, Haywood, Lean, Lowe, Myhre, et~al.]{forster2007changes}
 Piers Forster, Venkatachalam Ramaswamy, Paulo Artaxo, Terje Berntsen, Richard
   Betts, David~W Fahey, James Haywood, Judith Lean, David~C Lowe, Gunnar Myhre,
   et~al.
-\newblock Changes in atmospheric constituents and in radiative forcing. chapter
-  2.
-\newblock In \emph{Climate change 2007. The physical science basis}. Cambridge
-  University Press, 2007.
+\newblock Changes in atmospheric constituents and in radiative forcing.
+\newblock In \emph{Climate change 2007. The physical science basis}, chapter~2.
+  Cambridge University Press, 2007.
 
 \bibitem[Lannelongue et~al.(2021{\natexlab{a}})Lannelongue, Grealey, Bateman,
   and Inouye]{lannelongue2021ten}
 Lo{\"\i}c Lannelongue, Jason Grealey, Alex Bateman, and Michael Inouye.
 \newblock Ten simple rules to make your computing more environmentally
-  sustainable, 2021{\natexlab{a}}.
+  sustainable.
+\newblock \emph{PLoS Computational Biology}, 17\penalty0 (9):\penalty0
+  e1009324, 2021{\natexlab{a}}.
 
 \bibitem[Aslan et~al.(2018)Aslan, Mayers, Koomey, and
   France]{aslan2018electricity}
@@ -45,8 +52,9 @@ Greenhouse gas reporting: conversion factors 2020, 2020.
   Goldfeder]{narayanan2017bitcoin}
 Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven
   Goldfeder.
-\newblock Bitcoin and cryptocurrency technologies: A comprehensive
-  introduction, 2017.
+\newblock \emph{Bitcoin and Cryptocurrency Technologies: A Comprehensive
+  Introduction}.
+\newblock Princeton University Press, 2017.
 
 \bibitem[Redman(2020)]{redman2020NFT}
 Jamie Redman.
@@ -86,7 +94,7 @@ Lo{\"\i}c Lannelongue, Jason Grealey, and Michael Inouye.
 Jason~G Grealey, Lo{\"\i}c Lannelongue, Woeiyuh Saw, Jonathan Marten, Guillaume
   M{\'e}ric, Sergio~Ruiz Carmona, and Michael Inouye.
 \newblock The carbon footprint of bioinformatics.
-\newblock \emph{bioRxiv}, 2021.
+\newblock \emph{Molecular Biology and Evolution}, 2021.
 
 \bibitem[Heer(2018)]{heer2018speed}
 Niklas Heer.
@@ -100,7 +108,7 @@ Arman Shehabi, Sarah Smith, Dale Sartor, Richard Brown, Magnus Herrlin,
   Jonathan Koomey, Eric Masanet, Nathaniel Horner, In{\^e}s Azevedo, and
   William Lintner.
 \newblock United states data center energy usage report.
-\newblock 2016.
+\newblock Technical report, Lawrence Berkeley National Laboratory, 2016.
 
 \bibitem[Waters(2019)]{waters2019energy}
 Liz Waters.
@@ -169,7 +177,7 @@ Eric Masanet, Arman Shehabi, Lavanya Ramakrishnan, Jiaqi Liang, Xiaohui Ma,
   Benjamin Walker, Valerie Hendrix, and Pradeep Mantha.
 \newblock The energy efficiency potential of cloud-based software: A u.s. case
   study.
-\newblock 2013.
+\newblock Technical report, Lawrence Berkeley National Laboratory, 2013.
 
 \bibitem[Masanet et~al.(2020)Masanet, Shehabi, Lei, Smith, and
   Koomey]{masanet2020recalibrating}
@@ -180,7 +188,7 @@ Eric Masanet, Arman Shehabi, Nuoa Lei, Sarah Smith, and Jonathan Koomey.
 \bibitem[H{\"o}lzle(2020)]{holzle2020data}
 Urs H{\"o}lzle.
 \newblock Data centers are more energy efficient than ever.
-\newblock 2020.
+\newblock Technical report, Google, 2020.
 \newblock URL
   \url{https://www.blog.google/outreach-initiatives/sustainability/data-centers-energy-efficient}.
 
@@ -258,9 +266,8 @@ Bichlien Nguyen, Julie Sinistore, Jake Smith, Praneet~S. Arshi, Lauren~M.
 \newblock URL
   \url{https://www.microsoft.com/en-us/research/publication/architecting-datacenters-for-sustainability-greener-data-storage-using-synthetic-dna/}.
 
-\bibitem[National Academies~of Sciences et~al.(2019)National Academies~of
-  Sciences, Medicine, et~al.]{national2019quantum}
-Engineering National Academies~of Sciences, Medicine, et~al.
+\bibitem[of~Sciences~Engineering and Medicine(2019)]{national2019quantum}
+National~Academies of~Sciences~Engineering and Medicine.
 \newblock \emph{Quantum computing: progress and prospects}.
 \newblock National Academies Press, 2019.
 

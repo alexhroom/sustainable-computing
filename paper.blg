@@ -3,54 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: paper.aux
 The style file: unsrtnat.bst
 Database file #1: bibliography.bib
-Name 1 in "National Academies of Sciences, Engineering, and Medicine and others" has a comma at the end for entry national2019quantum
-while executing---line 1233 of file unsrtnat.bst
-Warning--empty journal in shehabi2016united
-Warning--empty journal in masanet2013energy
-Warning--empty journal in holzle2020data
-Name 1 in "National Academies of Sciences, Engineering, and Medicine and others" has a comma at the end for entry national2019quantum
-while executing---line 1315 of file unsrtnat.bst
-Name 1 in "National Academies of Sciences, Engineering, and Medicine and others" has a comma at the end for entry national2019quantum
-while executing---line 1315 of file unsrtnat.bst
-You've used 46 entries,
+You've used 47 entries,
             2481 wiz_defined-function locations,
-            814 strings with 13452 characters,
-and the built_in function-call counts, 17078 in all, are:
-= -- 1388
-> -- 934
-< -- 28
-+ -- 373
+            821 strings with 13570 characters,
+and the built_in function-call counts, 17396 in all, are:
+= -- 1433
+> -- 935
+< -- 31
++ -- 375
 - -- 280
-* -- 1262
-:= -- 2711
-add.period$ -- 149
-call.type$ -- 46
-change.case$ -- 90
-chr.to.int$ -- 45
-cite$ -- 53
-duplicate$ -- 872
-empty$ -- 1585
-format.name$ -- 332
-if$ -- 3645
+* -- 1287
+:= -- 2776
+add.period$ -- 155
+call.type$ -- 47
+change.case$ -- 94
+chr.to.int$ -- 46
+cite$ -- 51
+duplicate$ -- 885
+empty$ -- 1604
+format.name$ -- 335
+if$ -- 3710
 int.to.chr$ -- 2
-int.to.str$ -- 47
+int.to.str$ -- 48
 missing$ -- 36
-newline$ -- 244
-num.names$ -- 126
-pop$ -- 451
+newline$ -- 252
+num.names$ -- 129
+pop$ -- 440
 preamble$ -- 1
-purify$ -- 46
+purify$ -- 47
 quote$ -- 0
-skip$ -- 545
+skip$ -- 550
 stack$ -- 0
-substring$ -- 589
-swap$ -- 147
-text.length$ -- 7
+substring$ -- 615
+swap$ -- 150
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 316
-warning$ -- 3
-while$ -- 128
+type$ -- 320
+warning$ -- 0
+while$ -- 131
 width$ -- 0
-write$ -- 597
-(There were 3 error messages)
+write$ -- 623
