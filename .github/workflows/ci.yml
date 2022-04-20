@@ -13,10 +13,6 @@ jobs:
         run: wget https://raw.githubusercontent.com/aignas/TeXcount/master/texcount.pl
       - name: Run word counter
         run: perl texcount.pl paper.tex
-      - name: Check if over word limit
-        run: |
-          perl texcount.pl -1 -sum paper.tex > word_total
-          [ $(cat ./word_total) -gt $(cat ./.github/etc/word_limit) ] 
         
   check_todo:
     runs-on: ubuntu-latest
