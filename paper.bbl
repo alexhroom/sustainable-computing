@@ -1,4 +1,4 @@
-\begin{thebibliography}{47}
+\begin{thebibliography}{50}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -28,14 +28,6 @@ Lo{\"\i}c Lannelongue, Jason Grealey, Alex Bateman, and Michael Inouye.
 \newblock \emph{PLoS Computational Biology}, 17\penalty0 (9):\penalty0
   e1009324, 2021{\natexlab{a}}.
 
-\bibitem[Aslan et~al.(2018)Aslan, Mayers, Koomey, and
-  France]{aslan2018electricity}
-Joshua Aslan, Kieren Mayers, Jonathan~G Koomey, and Chris France.
-\newblock Electricity intensity of internet data transmission: Untangling the
-  estimates.
-\newblock \emph{Journal of Industrial Ecology}, 22\penalty0 (4):\penalty0
-  785--798, 2018.
-
 \bibitem[app(2019)]{apple2019product}
 iphone 11 product environmental report, 2019.
 \newblock URL
@@ -47,6 +39,14 @@ Greenhouse gas reporting: conversion factors 2020, 2020.
 \newblock URL
   \url{https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2020}.
 \newblock Accessed: 2022-02-09.
+
+\bibitem[Aslan et~al.(2018)Aslan, Mayers, Koomey, and
+  France]{aslan2018electricity}
+Joshua Aslan, Kieren Mayers, Jonathan~G Koomey, and Chris France.
+\newblock Electricity intensity of internet data transmission: Untangling the
+  estimates.
+\newblock \emph{Journal of Industrial Ecology}, 22\penalty0 (4):\penalty0
+  785--798, 2018.
 
 \bibitem[Narayanan et~al.(2017)Narayanan, Bonneau, Felten, Miller, and
   Goldfeder]{narayanan2017bitcoin}
@@ -96,11 +96,14 @@ Jason~G Grealey, Lo{\"\i}c Lannelongue, Woeiyuh Saw, Jonathan Marten, Guillaume
 \newblock The carbon footprint of bioinformatics.
 \newblock \emph{Molecular Biology and Evolution}, 2021.
 
-\bibitem[Heer(2018)]{heer2018speed}
-Niklas Heer.
-\newblock Speed comparison of various programming languages, 2018.
-\newblock URL \url{https://github.com/niklas-heer/speed-comparison}.
-\newblock Accessed: 2021-12-28.
+\bibitem[Pereira et~al.(2017)Pereira, Couto, Ribeiro, Rua, Cunha, Fernandes,
+  and Saraiva]{pereira2017energy}
+Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, J{\'a}come Cunha,
+  Jo{\~a}o~Paulo Fernandes, and Jo{\~a}o Saraiva.
+\newblock Energy efficiency across programming languages: how do energy, time,
+  and memory relate?
+\newblock In \emph{Proceedings of the 10th ACM SIGPLAN International Conference
+  on Software Language Engineering}, pages 256--267, 2017.
 
 \bibitem[Shehabi et~al.(2016)Shehabi, Smith, Sartor, Brown, Herrlin, Koomey,
   Masanet, Horner, Azevedo, and Lintner]{shehabi2016united}
@@ -157,6 +160,12 @@ Emma Strubell, Ananya Ganesh, and Andrew McCallum.
 \newblock Energy and policy considerations for deep learning in nlp.
 \newblock \emph{arXiv preprint arXiv:1906.02243}, 2019.
 
+\bibitem[Mania et~al.(2019)Mania, Miller, Schmidt, Hardt, and
+  Recht]{mania2019model}
+Horia Mania, John Miller, Ludwig Schmidt, Moritz Hardt, and Benjamin Recht.
+\newblock Model similarity mitigates test set overuse.
+\newblock \emph{Advances in Neural Information Processing Systems}, 32, 2019.
+
 \bibitem[Findlay(2021)]{findlay2021practical}
 David Findlay.
 \newblock \emph{A Practical Guide to the ISIS Neutron and Muon Source}.
@@ -170,6 +179,14 @@ Tian Shang, Michael Smidman, Saikat~K Ghosh, Christopher Baines, Lieh-Jeng
 \newblock Time-reversal symmetry breaking in re-based superconductors.
 \newblock \emph{Physical review letters}, 121\penalty0 (25):\penalty0 257002,
   2018.
+
+\bibitem[Griffiths et~al.(2010)Griffiths, Occhipinti, Morris, Heenan, King, and
+  Gumbleton]{griffiths2010pgse}
+Peter~Charles Griffiths, Paola Occhipinti, Christopher Morris, Richard~K
+  Heenan, Stephen~Michael King, and Mark Gumbleton.
+\newblock Pgse-nmr and sans studies of the interaction of model polymer
+  therapeutics with mucin.
+\newblock \emph{Biomacromolecules}, 11\penalty0 (1):\penalty0 120--125, 2010.
 
 \bibitem[Masanet et~al.(2013)Masanet, Shehabi, Ramakrishnan, Liang, Ma, Walker,
   Hendrix, and Mantha]{masanet2013energy}
@@ -197,6 +214,14 @@ Christina Ospina.
 \newblock Cooling your home but warming the planet: How we can stop air
   conditioning from worsening climate change.
 \newblock \emph{Climate Institute. New York}, page~9, 2018.
+
+\bibitem[Zhang et~al.(2022)Zhang, Zhao, Dai, Nie, Ma, Li, Miao, Jin, Tan, and
+  Ding]{zhang2022cooling}
+Yelong Zhang, Yanqi Zhao, Siyuan Dai, Binjian Nie, Hongkun Ma, Jianming Li,
+  Qi~Miao, Yi~Jin, Linghua Tan, and Yulong Ding.
+\newblock Cooling technologies for data centres and telecommunication base
+  stations--a comprehensive review.
+\newblock \emph{Journal of Cleaner Production}, 334:\penalty0 130280, 2022.
 
 \bibitem[Evans and Gao(2016)]{evans2016deepmind}
 Richard Evans and Jim Gao.
